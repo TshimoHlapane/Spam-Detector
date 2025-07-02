@@ -1,7 +1,5 @@
 # 🧠 AI-Toolkit-SpamDetector: Text Classification with Scikit-learn
 
-📎 GitHub Repo: https://github.com/TshimoHlapane/Spam-Detector
-
 ---
 
 ## 💡 Project Overview
@@ -25,6 +23,11 @@ This project is part of the PLP Week 3 Assignment: "Mastering the AI Toolkit." O
 | Violet    | 👩‍💻 Model Developer              | Preprocessed the dataset, built the spam classifier in Scikit-learn, and produced output graphs. |
 | Lukhanyo  | 🎬 Video Producer & Presenter    | Directed and edited the 3-minute team video showcasing our approach and implementation.          |
 | Tshimo    | 📚 Report Writer & Repo Manager  | Compiled the README, organized the repo, and wrote the final project PDF report.                 |
+
+- Mike: [GitHub](https://github.com/MykeShale)
+- Violet: [GitHub](https://github.com/violetwanjiru)
+- Lukhanyo: [GitHub](https://github.com/Luu-17)
+- Tshimo: [GitHub](https://github.com/TshimoHlapane)
 
 ---
 
